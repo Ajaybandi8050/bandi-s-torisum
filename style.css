@@ -1,0 +1,136 @@
+.bgcontainer {
+    background-image: URL("https://img.freepik.com/free-photo/rear-view-back-young-asian-hiking-man-standing-riseup-hands-with-happy-peak-rocky-mountain-copy-space_1150-57186.jpg?w=1060&t=st=1669104182~exp=1669104782~hmac=3d87b287f2349f09145243b79bfc99093ec80de1fdbecb2d7cbcf470deb524f5");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    font-family: "Roboto";
+
+}
+
+.card-container {
+    padding: 15px;
+    text-align: center;
+    background-color: #C9E1E6;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+
+}
+
+.button {
+    color: white;
+    height: 50px;
+    width: 125px;
+    border-radius: 25px;
+    background-color: #466A8D;
+
+}
+
+.btn-btn-primary {
+    color: white;
+    background-color: #073763;
+    height: 50px;
+    width: 125px;
+    border-radius: 25px;
+}
+
+
+.favplace-bgcontainer {
+    background-image: url('https://images.pexels.com/photos/1268855/pexels-photo-1268855.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+
+}
+
+.favplace-heading {
+    padding: 24px;
+    color: white;
+    font-family: "roboto";
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.favplace-card-container {
+    background-color: white;
+    padding: 16px;
+    border-radius: 8px;
+    margin: 15px;
+}
+
+.favplace-card-para {
+    font-size: 10px;
+    padding: 16px;
+    font-family: "roboto";
+    font-size: 15px;
+}
+
+.favplace-card-heading {
+    color: black;
+}
+
+.favplace-card-image {
+    height: 75px;
+    width: 150px;
+}
+
+.favplaceback-button {
+    color: white;
+    height: 50px;
+    width: 125px;
+    border-radius: 25px;
+    background-color: #466A8D;
+}
+
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 24px;
+}
+
+.topcard-courousal-container {
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.bottomcard-container {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.bottomcard-mainheading {
+    color: black;
+    font-size: bold;
+    font-family: "Roboto";
+}
+
+.bottomcard-para {
+    color: #4e4b4b;
+    font-family: "roboto";
+}
+
+.button-detailed {
+    color: white;
+    height: 50px;
+    width: 125px;
+    border-radius: 25px;
+    background-color: #466A8D;
+}
